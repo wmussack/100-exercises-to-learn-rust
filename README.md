@@ -1,8 +1,10 @@
 # Learn Rust, one exercise at a time
-
+# wms Übersetzung: Lerne Rust, eine Übung nach der anderen!
 You've heard about Rust, but you never had the chance to try it out?\
 This course is for you!
+Du hast von Rust gehört, hattest aber nie die Gelegenheit, es auszuprobieren?
 
+Dieser Kurs ist für dich!
 You'll learn Rust by solving 100 exercises.\
 You'll go from knowing nothing about Rust to being able to start
 writing your own programs, one exercise at a time.
