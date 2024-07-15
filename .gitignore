@@ -16,6 +16,7 @@ exercises/progress.db
 
 # macOS
 .DS_Store
+**/*.DS_Store
 
 # Cargo.lock if creating a library
 # Comment this line if you're creating an executable
